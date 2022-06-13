@@ -1,0 +1,18 @@
+body{
+    font-family: texto;
+    background-color: black;
+}
+
+@font-face {
+    font-family: texto;
+    src: url(ArlonSemiBold.ttf);}
+
+#contenido{
+    width: 90%;
+    height:90%;
+    background-color: rgba(49, 11, 85, 0.219);
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
